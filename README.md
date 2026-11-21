@@ -1,51 +1,110 @@
-# Sebastián
+# José Sebastian Torrico Severiche
 
-**Full Stack & Mobile Developer**
+**Desarrollador Full Stack | React.js | Node.js | Python | AWS**
 
-I build end-to-end products with Django, FastAPI and Spring Boot on the backend, Angular and React on the web, and Flutter on mobile. I care about clean architecture, typed contracts and shipping software that people actually use.
+Estudiante de último año de Ingeniería en Sistemas en la Universidad Autónoma Gabriel René Moreno (UAGRM), Bolivia.
+
+Desarrollador de software enfocado en la construcción de aplicaciones web y soluciones integrales, con especial fortaleza en el desarrollo frontend utilizando React.js y JavaScript. Cuento con experiencia práctica en desarrollo backend mediante Node.js, Django y FastAPI, integración de APIs REST y gestión de bases de datos relacionales.
+
+Tengo experiencia en despliegue de aplicaciones e infraestructura en la nube, especialmente con **AWS EC2 y S3**. Me interesa desarrollar soluciones funcionales, mantenibles y orientadas a resolver problemas reales, manteniendo un aprendizaje continuo sobre nuevas tecnologías y buenas prácticas de ingeniería de software.
 
 ---
 
-## Stack
+## Habilidades técnicas
 
-| | |
+| Área | Tecnologías |
 |---|---|
-| **Backend** | Python · Django · DRF · FastAPI · Java · Spring Boot · Camunda |
-| **Frontend** | TypeScript · Angular · React · Tailwind CSS · Vite |
-| **Mobile** | Dart · Flutter · Riverpod · Firebase |
-| **Data & Tools** | PostgreSQL · MongoDB · Docker · Git · Stripe · Cloudinary |
+| **Frontend** | JavaScript, React.js, HTML5, CSS3, Tailwind CSS, React Router |
+| **Backend** | Node.js, Python, Django, FastAPI |
+| **Bases de datos** | PostgreSQL, SQL |
+| **Cloud e infraestructura** | AWS EC2, AWS S3, Docker |
+| **Despliegue** | Railway, Render, Vercel, AWS |
+| **Herramientas** | Git, GitHub, Postman, Axios |
+| **Metodologías** | Scrum, Jira, Trello |
+| **Desarrollo asistido por IA** | ChatGPT, Codex, agentes de programación, Specification-Driven Development (SDD) |
+
+## Infraestructura y servicios en la nube
+
+Experiencia práctica trabajando con servicios de infraestructura y despliegue de aplicaciones:
+
+- **AWS EC2:** configuración y utilización de instancias virtuales para alojar aplicaciones y servicios.
+- **AWS S3:** almacenamiento de archivos y documentos mediante infraestructura de almacenamiento en la nube.
+- **Docker:** contenedorización de aplicaciones y configuración de entornos de desarrollo.
+- **Railway, Render y Vercel:** despliegue y publicación de aplicaciones web.
+
+## Proyectos destacados
+
+### SystemBPM Enterprise
+**Gestión de procesos empresariales y automatización de workflows**
+
+Plataforma orientada a la gestión de procesos empresariales que integra automatización de workflows, gestión documental, colaboración e inteligencia artificial.
+
+- Automatización y gestión de procesos mediante Camunda BPM.
+- Gestión documental y edición colaborativa.
+- Asistencia mediante IA para análisis y generación de procesos.
+- Dashboards, gestión de tareas y notificaciones en tiempo real.
+
+**Tecnologías:** Java 17, Spring Boot, Camunda BPM, MongoDB, FastAPI y Angular.
+
+*Proyecto individual desarrollado con asistencia de herramientas de inteligencia artificial.*
+
+### DocuFlow – Sistema de Gestión Documental
+**Solución institucional implementada para un cliente real**
+
+Aplicación web desarrollada para la Dirección de Carrera de Trabajo Social de la UAGRM, orientada a mejorar la trazabilidad y administración de la correspondencia institucional.
+
+- Registro, derivación y seguimiento de documentos.
+- Gestión de respuestas, observaciones y finalización de trámites.
+- Dashboards, administración de usuarios, búsquedas y filtros.
+- Integración con Google Drive para almacenamiento documental.
+- Aplicación web adaptable y Progressive Web App (PWA).
+
+**Tecnologías:** React.js, JavaScript, Tailwind CSS, FastAPI, Axios y Google Drive.
+
+*Desarrollo individual, implementación y puesta en funcionamiento en una institución real.*
+
+### RetroVision
+**Análisis de video y monitoreo de tiendas físicas**
+
+Plataforma web para establecimientos comerciales que integra análisis de video, monitoreo de seguridad e indicadores de comportamiento de clientes.
+
+- Dashboards comerciales y métricas de afluencia.
+- Mapas de calor y visualización de recorridos de clientes.
+- Monitoreo de filas y tiempos de espera.
+- Alertas de seguridad y registro de eventos en tiempo real.
+- Gestión de cámaras y sucursales.
+
+**Tecnologías:** React.js, Tailwind CSS, Django, PostgreSQL, WebSockets, Chart.js, Python, OpenCV y YOLOv8.
+
+*Proyecto grupal: líder de equipo, desarrollador principal del frontend y colaborador en el backend.*
+
+## Enfoque de desarrollo
+
+- Desarrollo de interfaces web reutilizables y mantenibles.
+- Integración de aplicaciones frontend con APIs REST.
+- Construcción de servicios backend y aplicaciones conectadas a bases de datos.
+- Aplicación de buenas prácticas de desarrollo y control de versiones con Git.
+- Uso de herramientas de inteligencia artificial para asistir y optimizar el proceso de desarrollo.
+- Aprendizaje continuo de nuevas tecnologías y arquitecturas de software.
+
+## Formación académica
+
+**Ingeniería en Sistemas**  
+Universidad Autónoma Gabriel René Moreno (UAGRM)  
+Noveno semestre · Finalización estimada: 2027.
+
+## Certificaciones e idiomas
+
+- Curso de Iniciación al Desarrollo con IA – MoureDev / Big School.
+- Español: Nativo.
+- Inglés: Intermedio (B1), actualmente en formación en el CAI de la UAGRM.
+
+## Contacto
+
+- **Correo:** sebasseveriche91@gmail.com
+- **GitHub:** [github.com/Sebas91ts](https://github.com/Sebas91ts)
+- **Ubicación:** Santa Cruz de la Sierra, Bolivia.
 
 ---
 
-## Featured projects
-
-### [System BPM Suite](https://github.com/Sebas91ts/system-bpm-suite)
-AI-assisted Business Process Management platform. A Spring Boot + Camunda core, a FastAPI AI service with Gemini and TensorFlow, an Angular process designer and a Flutter client for task tracking.
-`Spring Boot` `Camunda` `FastAPI` `Angular` `Flutter`
-
-### [Ecommerce Platform](https://github.com/Sebas91ts/ecommerce-platform)
-Full-stack commerce platform with a Django REST API, a React PWA storefront, Stripe checkout and ML sales forecasting.
-`Django` `React` `Stripe` `scikit-learn`
-
-### [Real Estate Platform](https://github.com/Sebas91ts/real-estate-platform)
-Real estate management suite covering listings, contracts, payments, maps, reports and a Flutter mobile client.
-`Django` `React` `Flutter` `Leaflet`
-
-### [DocuFlow Management System](https://github.com/Sebas91ts/docuflow-management-system)
-Document management platform for the Social Work program at UAGRM: traceable assignments, audit trail and Google Drive storage.
-`FastAPI` `React` `PostgreSQL` `Google Drive`
-
-### [Operations Research Solver](https://github.com/Sebas91ts/operations-research-solver)
-Interactive graphical method solver for two-variable linear programming problems, with feasible-region charts and vertex analysis.
-`React` `Plotly` `Linear Programming`
-
----
-
-## Currently
-
-- Building AI-assisted workflow and document tools.
-- Open to full-stack and mobile engineering opportunities.
-
-## Contact
-
-[GitHub](https://github.com/Sebas91ts)
+*Construyendo soluciones, resolviendo problemas y mejorando continuamente.*
